@@ -18,7 +18,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   
   
 <!-- Badges -->
-<p>
+<1 -- <p>
   <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
@@ -37,7 +37,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
   </a>
-</p>
+</p> 
    
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
@@ -48,7 +48,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <span> · </span>
     <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
   </h4>
-</div>
+</div> --> 
 
 <br />
 
