@@ -18,7 +18,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   
   
 <!-- Badges -->
-<! -- <p>
+<p>
   <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
@@ -48,7 +48,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <span> · </span>
     <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
   </h4>
-</div> --> 
+</div> 
 
 <br />
 
@@ -81,6 +81,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- About the Project -->
 ## :star2: About the Project
 
+BioPredict was originally developed in response to a request from Boston University’s iGEM team to build predictive models that could evaluate the performance of their project components. These models were initially used to generate scores based on user interactions with their hardware and applications. Since then, the project has evolved to focus more broadly on modeling biological data and generating predictive insights to support synthetic biology research. 
 
 <!-- Screenshots -->
 ### :camera: Screenshots
