@@ -9,10 +9,11 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <h1>BioPredict: Regression Models for Synthetic Biology
+</h1>
   
   <p>
-    An awesome README template for your projects! 
+    BioPredict is a machine learning-based modeling suite that leverages linear and logistic regression to analyze and predict outcomes in synthetic biology. Built to assist in the design and evaluation of gene circuits and genetic modifications, the models aim to translate biological input data into actionable insights for synthetic system performance. 
   </p>
   
   
