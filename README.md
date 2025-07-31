@@ -276,13 +276,25 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
 <!-- FAQ -->
 ## :grey_question: FAQ
 
-- Question 1
+- What is BioPredict? 
 
-  + Answer 1
+  + BioPredict is a machine learning toolkit that uses linear and logistic regression to model and predict biological behaviors. It was originally created in collaboration with Boston University’s iGEM team and now supports broader synthetic biology applications by making predictions from experimental or sequence-based biological data.
 
-- Question 2
+- What kind of predictions can BioPredict make? 
 
-  + Answer 2
+  + BioPredict can predict both continuous outcomes (e.g., gene expression levels, protein concentrations) using linear regression and binary outcomes (e.g., whether a genetic circuit will activate or not) using logistic regression. 
+
+- What data does BioPredict use? 
+
+  + The models can be trained on experimental datasets that include genetic sequence features, promoter strengths, regulatory elements, gene-editing parameters, and user-generated experimental outcomes. The system is flexible to adapt to various biological input formats.
+ 
+- Can I use BioPredict for my own biology project? 
+
+  + Yes! As long as your project involves structured biological data, BioPredict can be adapted to model and predict outcomes relevant to gene circuits, gene expression, or other synthetic biology goals. You can retrain the models using your own datasets. 
+
+- What tools or libraries does BioPredict use? 
+
+  + BioPredict is built using Python and relies on scikit-learn for regression modeling, pandas and NumPy for data handling, and matplotlib or seaborn for visualizations. 
 
 
 <!-- License -->
