@@ -18,7 +18,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   
   
 <!-- Badges -->
-<1 -- <p>
+<! -- <p>
   <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
