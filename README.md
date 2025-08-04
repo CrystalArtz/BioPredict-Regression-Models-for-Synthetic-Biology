@@ -14,12 +14,12 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 BioPredict is a machine learning-based modeling suite that leverages linear and logistic regression to analyze and predict outcomes in synthetic biology. Built to assist in the design and evaluation of gene circuits and genetic modifications, the models aim to translate biological input data into actionable insights for synthetic system performance.
 
-[Contributors]([https://github.com/othneildrew/Best-README-Template](https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology/graphs/contributors)) 
+[![Contributors](https://img.shields.io/github/contributors/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/sophiebarriault/BioPredict)]()
 [![Forks](https://img.shields.io/github/forks/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/network/members)
 [![Stars](https://img.shields.io/github/stars/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/stargazers)
 [![Issues](https://img.shields.io/github/issues/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/issues)
-[![License](https://img.shields.io/github/license/sophiebarriault/BioPredict.svg)](https://github.com/sophiebarriault/BioPredict/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/sophiebarriault/BioPredict.svg)](https://github.com/sophiebarriault/BioPredict/blob/main/LICENSE) 
 
 [View Demo](https://github.com/sophiebarriault/BioPredict) ·
 [Documentation](https://github.com/sophiebarriault/BioPredict) ·
@@ -153,6 +153,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
