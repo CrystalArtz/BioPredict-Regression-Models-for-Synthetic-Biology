@@ -8,51 +8,132 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="Biopredict_Visual.png" alt="logo" width="200" height="auto" />
-  <h1>BioPredict: Regression Models for Synthetic Biology</h1>
-  
-  <p>
-    BioPredict is a machine learning-based modeling suite that leverages linear and logistic regression to analyze and predict outcomes in synthetic biology. Built to assist in the design and evaluation of gene circuits and genetic modifications, the models aim to translate biological input data into actionable insights for synthetic system performance. 
-  </p>
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/sophiebarriault/BioPredict/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/sophiebarriault/BioPredict" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/sophiebarriault/BioPredict" alt="last update" />
-  </a>
-  <a href="https://github.com/sophiebarriault/BioPredict/network/members">
-    <img src="https://img.shields.io/github/forks/sophiebarriault/BioPredict" alt="forks" />
-  </a>
-  <a href="https://github.com/sophiebarriault/BioPredict/stargazers">
-    <img src="https://img.shields.io/github/stars/sophiebarriault/BioPredict" alt="stars" />
-  </a>
-  <a href="https://github.com/sophiebarriault/BioPredict/issues/">
-    <img src="https://img.shields.io/github/issues/sophiebarriault/BioPredict" alt="open issues" />
-  </a>
-  <a href="https://github.com/sophiebarriault/BioPredict/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/sophiebarriault/BioPredict.svg" alt="license" />
-  </a>
-</p> 
-   
-<h4>
-    <a href="https://github.com/sophiebarriault/BioPredict">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/sophiebarriault/BioPredict">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/sophiebarriault/BioPredict/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/sophiebarriault/BioPredict/issues/">Request Feature</a>
-</h4>
-</div> 
-<!-- License -->
-## :warning: License
+![Logo](biopredict_visual.png)
 
-Distributed under the no License. See LICENSE.txt for more information.
+# BioPredict: Regression Models for Synthetic Biology
 
+BioPredict is a machine learning-based modeling suite that leverages linear and logistic regression to analyze and predict outcomes in synthetic biology. Built to assist in the design and evaluation of gene circuits and genetic modifications, the models aim to translate biological input data into actionable insights for synthetic system performance.
 
+[![Contributors](https://img.shields.io/github/contributors/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/sophiebarriault/BioPredict)]()
+[![Forks](https://img.shields.io/github/forks/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/network/members)
+[![Stars](https://img.shields.io/github/stars/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/stargazers)
+[![Issues](https://img.shields.io/github/issues/sophiebarriault/BioPredict)](https://github.com/sophiebarriault/BioPredict/issues)
+[![License](https://img.shields.io/github/license/sophiebarriault/BioPredict.svg)](https://github.com/sophiebarriault/BioPredict/blob/main/LICENSE)
+
+[View Demo](https://github.com/sophiebarriault/BioPredict) ·
+[Documentation](https://github.com/sophiebarriault/BioPredict) ·
+[Report Bug](https://github.com/sophiebarriault/BioPredict/issues) ·
+[Request Feature](https://github.com/sophiebarriault/BioPredict/issues)
+
+</div>
+
+---
+
+# 📔 Table of Contents
+
+- [About the Project](#-about-the-project)
+  - [Screenshots](#-screenshots)
+  - [Tech Stack](#-tech-stack)
+  - [Features](#-features)
+  - [Color Reference](#-color-reference)
+  - [Environment Variables](#-environment-variables)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#-prerequisites)
+  - [Installation](#-installation)
+  - [Running Tests](#-running-tests)
+  - [Run Locally](#-run-locally)
+  - [Deployment](#-deployment)
+- [Usage](#-usage)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+  - [Code of Conduct](#-code-of-conduct)
+- [FAQ](#-faq)
+- [License](#-license)
+- [Contact](#-contact)
+- [Acknowledgements](#-acknowledgements)
+
+---
+
+## 🌟 About the Project
+
+BioPredict was originally developed in response to a request from Boston University’s iGEM team to build predictive models that could evaluate the performance of their project components. These models were initially used to generate scores based on user interactions with their hardware and applications. Since then, the project has evolved to focus more broadly on modeling biological data and generating predictive insights to support synthetic biology research.
+
+---
+
+### 📷 Screenshots
+
+![Screenshot Placeholder](https://placehold.co/600x400?text=Your+Screenshot+here)
+
+---
+
+### 👾 Tech Stack
+
+<details>
+  <summary>Client</summary>
+
+- Typescript
+- React.js
+- Next.js
+- TailwindCSS
+</details>
+
+<details>
+  <summary>Server</summary>
+
+- Typescript
+- Express.js
+- Nest.js
+- Golang
+- Socket.IO
+- Prisma
+- Apollo
+- GraphQL
+</details>
+
+<details>
+  <summary>Database</summary>
+
+- MySQL
+- PostgreSQL
+- Redis
+- MongoDB
+- Neo4j
+</details>
+
+<details>
+  <summary>DevOps</summary>
+
+- Docker
+- Jenkins
+- CircleCI
+</details>
+
+---
+
+### 🎯 Features
+
+- Predict binary outcomes with logistic regression
+- Predict continuous outcomes with linear regression
+- Flexible retraining for your own synthetic biology dataset
+
+---
+
+### 🎨 Color Reference
+
+| Color             | Hex        |
+| ----------------- | ---------- |
+| Primary Color     | `#222831`  |
+| Secondary Color   | `#393E46`  |
+| Accent Color      | `#00ADB5`  |
+| Text Color        | `#EEEEEE`  |
+
+---
+
+### 🔑 Environment Variables
+
+To run this project, add the following to your `.env` file:
+ 
 <!-- Contact -->
 ## :handshake: Contact
 
@@ -72,5 +153,6 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
