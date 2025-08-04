@@ -147,12 +147,18 @@ Project Link: [https://github.com/Louis3797/awesome-readme-template](https://git
 
 Useful resources and libraries that I've used in my project: 
 
+
+ - [scikit-learn](https://scikit-learn.org/stable/) 
+ - [pandas](https://pandas.pydata.org/) 
+ - [NumPy](https://numpy.org/) 
+ - [matplotlib](https://matplotlib.org/) 
  - [Logisitc Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
  - [Linear Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/) 
  - [Shields.io](https://shields.io/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
