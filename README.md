@@ -41,11 +41,7 @@ BioPredict is a machine learning-based modeling suite that leverages linear and 
 - [Getting Started](#-getting-started)
   - [Prerequisites](#-prerequisites) 
   - [Run Locally](#-run-locally)
-  - [Deployment](#-deployment)
-- [Usage](#-usage)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-  - [Code of Conduct](#-code-of-conduct)
+  - [Deployment](#-deployment) 
 - [FAQ](#-faq)
 - [License](#-license)
 - [Contact](#-contact)
@@ -176,6 +172,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
