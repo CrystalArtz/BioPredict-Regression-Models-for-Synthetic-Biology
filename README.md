@@ -58,7 +58,7 @@ BioPredict was originally developed in response to a request from Boston Univers
 
 ### 📷 Screenshots
 
-![Screenshot Placeholder](https://placehold.co/600x400?text=Your+Screenshot+here)
+![Screenshot Placeholder](assets/Example_1.png)
 
 ---
 
@@ -173,6 +173,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
