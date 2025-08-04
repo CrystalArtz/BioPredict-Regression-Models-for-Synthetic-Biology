@@ -133,6 +133,55 @@ BioPredict was originally developed in response to a request from Boston Univers
 ### 🔑 Environment Variables
 
 To run this project, add the following to your `.env` file:
+
+
+
+<!-- Getting Started -->
+## 	:toolbox: Getting Started
+
+<!-- Prerequisites -->
+### :bangbang: Prerequisites
+
+This project uses NumPy, Pandas, Matplotlib, and Sklearn 
+
+```bash
+ pip install numpy 
+ pip install pandas
+ pip install matplotlib
+ pip install scikit-learn 
+```
+<!-- Run Locally -->
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/SophieBarriault/BioPredict-Regression-Models-for-Synthetic-Biology.git
+```
+
+Go to the project directory
+
+```bash
+  cd BioPredict-Regression-Models-for-Synthetic-Biology 
+```
+
+Install dependencies
+
+```bash
+  pip install numpy 
+  pip install pandas
+  pip install matplotlib
+ pip install scikit-learn 
+```
+
+Start the server
+
+```bash
+  python BioPredict-Regression-Models-for-Synthetic-Biology 
+```
+
+
+
  
 <!-- Contact -->
 ## :handshake: Contact
@@ -148,16 +197,17 @@ Project Link: [https://github.com/Louis3797/awesome-readme-template](https://git
 Useful resources and libraries that I've used in my project: 
 
 
- - [scikit-learn](https://scikit-learn.org/stable/) 
- - [pandas](https://pandas.pydata.org/) 
+ - [Scikit-learn](https://scikit-learn.org/stable/) 
+ - [Pandas](https://pandas.pydata.org/) 
  - [NumPy](https://numpy.org/) 
- - [matplotlib](https://matplotlib.org/) 
+ - [Matplotlib](https://matplotlib.org/) 
  - [Logisitc Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
  - [Linear Regression ML Models Overview](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/) 
  - [Shields.io](https://shields.io/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
