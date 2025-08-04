@@ -67,45 +67,13 @@ BioPredict was originally developed in response to a request from Boston Univers
 
 ### 👾 Tech Stack
 
-<details>
-  <summary>Client</summary>
-
-- Typescript
-- React.js
-- Next.js
-- TailwindCSS
-</details>
-
-<details>
-  <summary>Server</summary>
-
-- Typescript
-- Express.js
-- Nest.js
-- Golang
-- Socket.IO
-- Prisma
-- Apollo
-- GraphQL
-</details>
-
-<details>
-  <summary>Database</summary>
-
-- MySQL
-- PostgreSQL
-- Redis
-- MongoDB
-- Neo4j
-</details>
-
-<details>
-  <summary>DevOps</summary>
-
-- Docker
-- Jenkins
-- CircleCI
-</details>
+- **Python** – Core programming language  
+- **scikit-learn** – Regression modeling  
+- **pandas** – Data handling  
+- **NumPy** – Numerical operations  
+- **matplotlib** / **seaborn** – Data visualization  
+- **Jupyter Notebook** – Interactive experimentation  
+- **Git & GitHub** – Version control and collaboration 
 
 ---
 
@@ -175,7 +143,7 @@ Install dependencies
 <!-- Deployment -->
 ### :triangular_flag_on_post: Deployment
 
-To deploy this project run<
+To deploy this project run: 
 
 ```bash
   python BioPredict-Regression-Models-for-Synthetic-Biology 
@@ -209,6 +177,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
