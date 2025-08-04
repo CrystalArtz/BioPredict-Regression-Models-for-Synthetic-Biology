@@ -39,9 +39,7 @@ BioPredict is a machine learning-based modeling suite that leverages linear and 
   - [Color Reference](#-color-reference)
   - [Environment Variables](#-environment-variables)
 - [Getting Started](#-getting-started)
-  - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
-  - [Running Tests](#-running-tests)
+  - [Prerequisites](#-prerequisites) 
   - [Run Locally](#-run-locally)
   - [Deployment](#-deployment)
 - [Usage](#-usage)
@@ -174,11 +172,15 @@ Install dependencies
   pip install scikit-learn 
 ```
 
-Start the server
+!-- Deployment -->
+### :triangular_flag_on_post: Deployment
+
+To deploy this project run<
 
 ```bash
   python BioPredict-Regression-Models-for-Synthetic-Biology 
 ```
+ 
 
 
 
@@ -207,6 +209,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
