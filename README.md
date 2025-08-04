@@ -71,8 +71,7 @@ BioPredict was originally developed in response to a request from Boston Univers
 - **scikit-learn** – Regression modeling  
 - **pandas** – Data handling  
 - **NumPy** – Numerical operations  
-- **matplotlib** / **seaborn** – Data visualization  
-- **Jupyter Notebook** – Interactive experimentation  
+- **matplotlib** / **seaborn** – Data visualization 
 - **Git & GitHub** – Version control and collaboration 
 
 ---
@@ -177,6 +176,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
