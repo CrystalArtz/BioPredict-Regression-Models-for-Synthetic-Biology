@@ -32,20 +32,21 @@ BioPredict is a machine learning-based modeling suite that leverages linear and 
 
 # 📔 Table of Contents
 
-- [About the Project](#-about-the-project)
-  - [Screenshots](#-screenshots)
-  - [Tech Stack](#-tech-stack)
-  - [Features](#-features)
-  - [Color Reference](#-color-reference)
-  - [Environment Variables](#-environment-variables)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#-prerequisites) 
-  - [Run Locally](#-run-locally)
-  - [Deployment](#-deployment) 
-- [FAQ](#-faq)
-- [License](#-license)
-- [Contact](#-contact)
-- [Acknowledgements](#-acknowledgements)
+- [About the Project](#about-the-project)
+  - [Screenshots](#screenshots)
+  - [Tech Stack](#tech-stack)
+  - [Features](#features)
+  - [Color Reference](#color-reference)
+  - [Environment Variables](#environment-variables)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Run Locally](#run-locally)
+  - [Deployment](#deployment)
+- [FAQ](#faq)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
 
 ---
 
@@ -172,6 +173,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
