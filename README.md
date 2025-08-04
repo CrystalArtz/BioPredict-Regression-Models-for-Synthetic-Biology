@@ -123,10 +123,10 @@ BioPredict was originally developed in response to a request from Boston Univers
 
 | Color             | Hex        |
 | ----------------- | ---------- |
-| Primary Color     | `#222831`  |
-| Secondary Color   | `#393E46`  |
-| Accent Color      | `#00ADB5`  |
-| Text Color        | `#EEEEEE`  |
+| Primary Color     | `#0074d9`  |
+| Secondary Color   | `#00e0ff`  |
+| Accent Color      | `#ffffff`  |
+| Text Color        | `#00e0ff`  |
 
 ---
 
@@ -153,6 +153,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
