@@ -172,7 +172,7 @@ Install dependencies
   pip install scikit-learn 
 ```
 
-!-- Deployment -->
+<!-- Deployment -->
 ### :triangular_flag_on_post: Deployment
 
 To deploy this project run<
@@ -209,6 +209,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
