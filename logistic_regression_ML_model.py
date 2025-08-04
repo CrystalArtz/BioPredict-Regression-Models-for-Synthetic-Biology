@@ -2,40 +2,37 @@
 import numpy as np #linear algebra 
 import pandas as pd #data processing 
 import matplotlib.pyplot as plt #graphing 
-#import seaborn as sns # statistical data visualization 
 import os #interact with operating system 
-#import warnings #just incase lol 
-from sklearn.linear_model import LogisticRegression 
-#from sklearn.linear_model import LinearRegression 
-
-#Input data files that you want to test for score (?): 
-
-#for dirname, _, filenames in os.walk('/downloads/input'): #placeholder file directory 
-    #for filename in filenames: 
-        #print(os.path.join(dirname, filename)) 
+#import warnings #just incase 
+from sklearn.linear_model import LogisticRegression #import a Logistic Regression ML model 
 
 #Any results you write to the current directory are saved as output.
 
-#Example dataset, I don't have any actually data to work with 
+
+#Input data files that you want to test for score: 
 #To import dataset file = directory to file where dataset located. Ex. = '\Downloads\tester' 
-#Save locally or on server? 
+#Save locally or on server 
+#Example data is shown 
+#Some levels and factors must be known in order to first train the model 
 data = pd.DataFrame({
 
-    'Putrecine_Levels':[1.2,5.4,8.2,2.1,8.1],
-    'pH_Levels':[7,2,1,3,8], 
-    'BV_Levels':[0,1,0,1,1]
+    'Known_output_levels':[1.2,5.4,8.2,2.1,8.1],
+    'Factor_1':[7,2,1,3,8], 
+    'Factor_2':[0,1,0,1,1]
 
     }) 
 
-#df = pd.read_cvs(data) 
+
+#read the dataset 
+df = pd.read_cvs(data) 
 
 #log transform putrescine 
 
-#view the dimensions of the dataset, for when there's an atual dataset, and not just example data 
-#df.shape 
+#Use to view the dimensions of the dataset 
+df.shape 
 
 #preview the dataset 
-#df.head() 
+df.head() 
 
 
 #start graphing data 
@@ -44,9 +41,8 @@ X = data[[ 'pH_Levels', 'Putrecine_Levels']]
 #output 
 Y = data['BV_Levels'] 
 
-model = LogisticRegression() 
-#model = LinearRegression() 
-model.fit (X,Y) 
+model = LogisticRegression() #defining that the type of model used is a Logistic Regression type 
+model.fit (X,Y) #fit the model to an x, y axis 
 
 #Outputted Weights: 
 
@@ -59,12 +55,13 @@ print("β₀:", intercept)
 # = β₀ = the log-odds when the X variable is 0, the baseline value for the log-odds of the event occurring, aka the y-intercept 
 #log-odds = "A log odds in statistics is the logarithm of the odds ratio. Odds are likelihood ratios, and tell us how likely it is that something particular will happen." 
 
-print("Weight for pH Levels:", weights[0]) 
 
-print("Weight for Putrecine Levels:", weights[1]) 
+#print the factors for the different weights 
+#more or less weights can be added, depending on your needs 
+print("Weight for factor 1 Levels:", weights[0]) #Print the weights of factor 1 
 
-#Logistic regression equation = 'log(p / (1 - p)) = β₀ + β₁x₁ + β₂x₂ + ... + βₙxₙ' 
+print("Weight for factor 2 Levels:", weights[1]) #Print the weights of factor 2 
 
-#plt.plot(X, Y) 
-#plt.show() 
- 
+#plot the data 
+plt.plot(X, Y) 
+plt.show() 
