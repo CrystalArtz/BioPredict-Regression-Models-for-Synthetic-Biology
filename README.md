@@ -145,9 +145,26 @@ To deploy this project run:
   python BioPredict-Regression-Models-for-Synthetic-Biology 
 ```
  
+<!-- FAQ -->
+## :grey_question: FAQ
 
+- **What can BioPredict predict?** 
 
+  + It can model relationships between biological inputs and outputs using both linear and logistic regression. This includes predicting gene expression levels, success rates of biological constructs, or other experiment outcomes based on input variables. 
 
+- **What models are included?** 
+
+  + The project includes:
+
+    - linear_regression_ML_model.py: General linear regression
+
+    - logistic_regression_ML_model.py: Logistic classification (e.g. success/failure)
+
+    - linear_regression_ML_expression_model.py: Specialized linear model for gene expression
+
+- **Can I use BioPredict for my own biology data?** 
+
+  + Yes! The models are generalized and easy to adapt. Just provide your own .csv or structured dataset and tweak the input/output variable names as needed. 
  
 <!-- Contact -->
 ## :handshake: Contact
@@ -173,6 +190,7 @@ Useful resources and libraries that I've used in my project:
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template) 
+
 
 
 
